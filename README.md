@@ -157,3 +157,41 @@ Select an option:
 4. Update score
 5. Delete one record
 6. Exit
+
+                                                               Output Screenshot
+                                                               
+                                                               
+ ---------------                                                              
+ 1. Insert data
+ ---------------
+                                                               
+![image](https://user-images.githubusercontent.com/98251620/235087256-7fd04f63-5f07-4bea-a207-9f55af1d874f.png)
+
+![image](https://user-images.githubusercontent.com/98251620/235087319-252d0e11-d1cc-44e7-be35-a63f60145bce.png)
+
+-----------------
+2. View all data
+----------------
+
+![image](https://user-images.githubusercontent.com/98251620/235088774-e317db72-97d8-458c-8cb6-dd1a89638548.png)
+
+--------------
+3. Get rank
+-------------
+![image](https://user-images.githubusercontent.com/98251620/235089179-0017712c-432d-4d63-88a6-4b018463733e.png)
+---------------
+4. Update score
+---------------
+
+![image](https://user-images.githubusercontent.com/98251620/235089668-2dc443ae-b294-4f5a-8783-5d7fe0c8022f.png)
+--------------------
+5. Delete one record
+-------------------
+
+![image](https://user-images.githubusercontent.com/98251620/235090135-c85aaafa-c175-49b8-8b60-9fbb27c49ea1.png)
+
+
+
+
+
+
