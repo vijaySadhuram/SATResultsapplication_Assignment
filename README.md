@@ -1,5 +1,5 @@
 
-                                                               Output Screenshot
+                                                           Output Screenshot
                                                                
                                                                
  ---------------                                                              
@@ -201,7 +201,7 @@ Select an option:
 5. Delete one record
 6. Exit
 
-                                                                     Problem Statement
+                                                              Problem Statement
                                                                      
                              
                              
